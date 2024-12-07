@@ -16,4 +16,8 @@ Project application where the user competes with a computer in a classic rock-pa
 
   ## __Example of the Game__
 
+  __User starts the game__
+
+
+![](https://github.com/farissikira/Rock-Paper-Scissors/blob/cacbda413576d344ed16d840203bbd4003583824/rcpgamepic1.JPG)
   
