@@ -10,7 +10,7 @@ Project application where the user competes with a computer in a classic rock-pa
 - Keeps track of the overall score (number of wins, losses, and ties)
 - The first to 5 wins(user or computer), user's or computer's score resets to 0
 
-  ## __Technologies Used__
+## __Technologies Used__
   HTML, CSS and JavaScript
   IDE: Visusal Studio Code
 
