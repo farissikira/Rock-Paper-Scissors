@@ -24,4 +24,7 @@ Project application where the user competes with a computer in a classic rock-pa
 __User wins first time__
 
 ![](https://github.com/farissikira/Rock-Paper-Scissors/blob/a640f5b2227fe8f9c955285114b3139c0965ef71/rcpgamepic2.JPG)
+
+__Computer wins second time__
+![](https://github.com/farissikira/Rock-Paper-Scissors/blob/526863ff2dc8b09900c2a7b3926ed602e8aa85fb/rcpgamepic3.JPG)
   
