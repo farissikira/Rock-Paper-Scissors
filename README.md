@@ -13,7 +13,7 @@ Project application where the user competes with a computer in a classic rock-pa
 ## __Technologies Used__
   HTML, CSS and JavaScript
   
-  IDE: Visusal Studio Code
+  IDE: Visual Studio Code
 
   ## __Example of the Game__
 
