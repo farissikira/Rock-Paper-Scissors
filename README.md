@@ -7,7 +7,7 @@ Project application where the user competes with a computer in a classic rock-pa
 - User input to choose between Rock, Paper and Scissors.
 - Randomized selection of the computer's choice.
 - Display of the result after each round (who won or if it's a tie).
-- Keeps track of the overall score (number of wins, losses, and ties)
+- Keeps track of the overall score (number of wins, losses and ties)
 - The first to 5 wins(user or computer), user's or computer's score resets to 0
 
 ## __Technologies Used__
